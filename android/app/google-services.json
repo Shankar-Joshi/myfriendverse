@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934803481318",
+    "firebase_url": "https://reactproject-9c1b4.firebaseio.com",
+    "project_id": "reactproject-9c1b4",
+    "storage_bucket": "reactproject-9c1b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934803481318:android:1fb55cbc9ea1df4d",
+        "android_client_info": {
+          "package_name": "com.shankar.friendverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934803481318-la36g0dn72s56836f90q4d89i0go3hp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankar.friendverse",
+            "certificate_hash": "18e0b70844681b733e7cc912c7e54787bfcf1ca3"
+          }
+        },
+        {
+          "client_id": "934803481318-6c7sok6usc92vqo90iofnbs2luk2ggns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1Ezl5NabDuT3gkwJvFx12ZfmLE4Ro4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934803481318-6c7sok6usc92vqo90iofnbs2luk2ggns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
